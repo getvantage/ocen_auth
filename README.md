@@ -4,6 +4,7 @@ This project demonstrates interacting with the OCEN auth service and registry.
 // API ClientID and Secret for credential based Authorization Token Generation
 
 clientid=f59adada-ea8d-4f8c-b511-4161fd216c49
+
 clientsecret=LGweLUAP7OEryjiQQK4byGppswSJYIph
 
 Private key used to sign the payload is in the app/cert folder 'privateKey.txt'
